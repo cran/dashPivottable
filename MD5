@@ -1,0 +1,14 @@
+290b22388fa06e9f2be9336d92eae467 *DESCRIPTION
+d6b5ac24cc9b234ca9ff4d252f71baac *LICENSE
+46ffa15b8394738ca0c1ce0730f834a7 *NAMESPACE
+8abffc731ab2c2cabcc82c650003d26e *R/dashPivotTable.R
+21f5b8bf5945ba052d53509e17fde046 *R/data.R
+19f7513716ef23271e8db85d02b27413 *R/internal.R
+ede17b07e4984a1f0b8a5c279892946c *data/tips.RData
+4e485c06396b090f77df2c6089d69b07 *inst/deps/dash_pivottable.min.js
+1b644203d6a0aa0027c728f11e739f71 *man/dashPivotTable.Rd
+f5b08b6739b6712c9317a46272563405 *man/dashPivottable-package.Rd
+b08eaf48053dddef6743c8f7fce17d7a *man/tips.Rd
+d41d8cd98f00b204e9800998ecf8427e *tests/__init__.py
+86851e6d0b0c6de399f897bde60d1cc7 *tests/test_callbacks.py
+81fc2385630f9b66e90f762f426af4a3 *tests/test_percy.py
